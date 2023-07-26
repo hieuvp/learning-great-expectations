@@ -1,2 +1,1 @@
-# learning-great-expectations
-Learning Great Expectations
+# Learning Great Expectations
